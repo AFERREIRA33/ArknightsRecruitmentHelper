@@ -170,6 +170,10 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+# App-generated cache/debug files
+.arkrecruit_cache/
+debug_screens/
+
 # PyPI configuration file
 .pypirc
 
